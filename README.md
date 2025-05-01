@@ -1,0 +1,1 @@
+This is the README.md file for the entire repository. This repository will contain all the codes i have written in python rewritten in python and then in javascript in a bid to perfect both languages better. it will contain as many codes as possible.
